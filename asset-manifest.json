@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/checkit/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/checkit/static/js/main.8ee973bb.chunk.js",
-    "main.js.map": "/checkit/static/js/main.8ee973bb.chunk.js.map",
-    "runtime-main.js": "/checkit/static/js/runtime-main.602f1116.js",
-    "runtime-main.js.map": "/checkit/static/js/runtime-main.602f1116.js.map",
-    "static/css/2.886d41a0.chunk.css": "/checkit/static/css/2.886d41a0.chunk.css",
-    "static/js/2.ef669651.chunk.js": "/checkit/static/js/2.ef669651.chunk.js",
-    "static/js/2.ef669651.chunk.js.map": "/checkit/static/js/2.ef669651.chunk.js.map",
-    "index.html": "/checkit/index.html",
-    "precache-manifest.6985f4620e162fde57ea9d84e06f8c53.js": "/checkit/precache-manifest.6985f4620e162fde57ea9d84e06f8c53.js",
-    "service-worker.js": "/checkit/service-worker.js",
-    "static/css/2.886d41a0.chunk.css.map": "/checkit/static/css/2.886d41a0.chunk.css.map",
-    "static/css/main.6a934dfc.chunk.css.map": "/checkit/static/css/main.6a934dfc.chunk.css.map",
-    "static/js/2.ef669651.chunk.js.LICENSE": "/checkit/static/js/2.ef669651.chunk.js.LICENSE"
+    "main.css": "/bayahlo/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/bayahlo/static/js/main.b0a589b1.chunk.js",
+    "main.js.map": "/bayahlo/static/js/main.b0a589b1.chunk.js.map",
+    "runtime-main.js": "/bayahlo/static/js/runtime-main.5a3ee882.js",
+    "runtime-main.js.map": "/bayahlo/static/js/runtime-main.5a3ee882.js.map",
+    "static/css/2.886d41a0.chunk.css": "/bayahlo/static/css/2.886d41a0.chunk.css",
+    "static/js/2.31b5d228.chunk.js": "/bayahlo/static/js/2.31b5d228.chunk.js",
+    "static/js/2.31b5d228.chunk.js.map": "/bayahlo/static/js/2.31b5d228.chunk.js.map",
+    "index.html": "/bayahlo/index.html",
+    "precache-manifest.62d7febdbe506445b98042d8dbd5ce34.js": "/bayahlo/precache-manifest.62d7febdbe506445b98042d8dbd5ce34.js",
+    "service-worker.js": "/bayahlo/service-worker.js",
+    "static/css/2.886d41a0.chunk.css.map": "/bayahlo/static/css/2.886d41a0.chunk.css.map",
+    "static/css/main.6a934dfc.chunk.css.map": "/bayahlo/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.31b5d228.chunk.js.LICENSE": "/bayahlo/static/js/2.31b5d228.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.602f1116.js",
+    "static/js/runtime-main.5a3ee882.js",
     "static/css/2.886d41a0.chunk.css",
-    "static/js/2.ef669651.chunk.js",
+    "static/js/2.31b5d228.chunk.js",
     "static/css/main.6a934dfc.chunk.css",
-    "static/js/main.8ee973bb.chunk.js"
+    "static/js/main.b0a589b1.chunk.js"
   ]
 }
