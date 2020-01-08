@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "072b0171d594065a4befc684f72dff46",
+    "revision": "09da088b388fc6b78955774c3f24618e",
     "url": "/bayahlo/index.html"
   },
   {
