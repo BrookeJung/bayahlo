@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import logo from '../style/logo/bayalogo.png'
+import logo from '../style/logo/bayalogo_rose.png'
 import { Dropdown, Button, Icon, Menu } from 'antd'
 import { Link } from 'react-router-dom'
 
@@ -10,12 +10,12 @@ const Wrapper = styled.div`
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-content: stretch;
-  padding: 18px;
+  padding: 10px;
   width: 100%;
   z-index: 10;
   position: fixed;
   background-color: white;
-  height: 84;
+  height: 34;
 `
 
 const MenuItem = styled(Menu.Item)`
@@ -27,7 +27,7 @@ const MenuLink = styled(Link)`
   font-weight: 450;
   font-size: 1.05rem;
   text-decoration: none;
-  color: #d8b63f;
+  color: #422100;
   &:hover {
     color: #727272;
   }
