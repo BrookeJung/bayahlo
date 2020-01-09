@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 const PageWrapper = styled.div`
-  padding-top: 100px;
+  padding-top: 80px;
 `
 
 export default PageWrapper

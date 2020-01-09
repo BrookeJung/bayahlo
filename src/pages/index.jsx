@@ -1,0 +1,6 @@
+export { default as Main } from './Main'
+export { default as SignUpPage } from './SignUpPage'
+export { default as SignInPage } from './SignInPage'
+export { default as ShopPage } from './ShopPage'
+export { default as WeddingGeo } from './WeddingGeo'
+export { default as AnsPage } from './AnsPage'
