@@ -59,9 +59,13 @@ const Header = () => {
           <Icon type="gift" />
           &nbsp;감사장
         </MenuLink>
-        <MenuLink to="/">
+        <MenuLink to="/custom">
           <Icon type="edit" />
           &nbsp;커스텀제작
+        </MenuLink>
+        <MenuLink to="/map">
+          <Icon type="edit" />
+          &nbsp;예식장 지도
         </MenuLink>
         <MenuLink to="/">
           <Icon type="question-circle" />
