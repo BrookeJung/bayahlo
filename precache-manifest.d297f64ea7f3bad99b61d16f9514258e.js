@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be5487cebc20e97bfa10fd59147cf37d",
+    "revision": "ec4b60ecc997f2227e948a486a1cf326",
     "url": "/bayahlo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bayahlo/static/css/2.b91b095c.chunk.css"
   },
   {
-    "revision": "4509cd9e3dacd677d3e3",
-    "url": "/bayahlo/static/css/main.6a934dfc.chunk.css"
+    "revision": "536fa30cee80b4c3333a",
+    "url": "/bayahlo/static/css/main.36497136.chunk.css"
   },
   {
     "revision": "9b4d38018d40eb48e30d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bayahlo/static/js/2.3d8f907d.chunk.js.LICENSE"
   },
   {
-    "revision": "4509cd9e3dacd677d3e3",
-    "url": "/bayahlo/static/js/main.a0d73f96.chunk.js"
+    "revision": "536fa30cee80b4c3333a",
+    "url": "/bayahlo/static/js/main.e7b0b9f5.chunk.js"
   },
   {
     "revision": "6dec12afb9d661261ee1",

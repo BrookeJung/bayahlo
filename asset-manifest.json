@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bayahlo/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/bayahlo/static/js/main.a0d73f96.chunk.js",
-    "main.js.map": "/bayahlo/static/js/main.a0d73f96.chunk.js.map",
+    "main.css": "/bayahlo/static/css/main.36497136.chunk.css",
+    "main.js": "/bayahlo/static/js/main.e7b0b9f5.chunk.js",
+    "main.js.map": "/bayahlo/static/js/main.e7b0b9f5.chunk.js.map",
     "runtime-main.js": "/bayahlo/static/js/runtime-main.5a3ee882.js",
     "runtime-main.js.map": "/bayahlo/static/js/runtime-main.5a3ee882.js.map",
     "static/css/2.b91b095c.chunk.css": "/bayahlo/static/css/2.b91b095c.chunk.css",
     "static/js/2.3d8f907d.chunk.js": "/bayahlo/static/js/2.3d8f907d.chunk.js",
     "static/js/2.3d8f907d.chunk.js.map": "/bayahlo/static/js/2.3d8f907d.chunk.js.map",
     "index.html": "/bayahlo/index.html",
-    "precache-manifest.09d5c69ed242a0d69f0c5590fd2bb497.js": "/bayahlo/precache-manifest.09d5c69ed242a0d69f0c5590fd2bb497.js",
+    "precache-manifest.d297f64ea7f3bad99b61d16f9514258e.js": "/bayahlo/precache-manifest.d297f64ea7f3bad99b61d16f9514258e.js",
     "service-worker.js": "/bayahlo/service-worker.js",
     "static/css/2.b91b095c.chunk.css.map": "/bayahlo/static/css/2.b91b095c.chunk.css.map",
-    "static/css/main.6a934dfc.chunk.css.map": "/bayahlo/static/css/main.6a934dfc.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/bayahlo/static/css/main.36497136.chunk.css.map",
     "static/js/2.3d8f907d.chunk.js.LICENSE": "/bayahlo/static/js/2.3d8f907d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5a3ee882.js",
     "static/css/2.b91b095c.chunk.css",
     "static/js/2.3d8f907d.chunk.js",
-    "static/css/main.6a934dfc.chunk.css",
-    "static/js/main.a0d73f96.chunk.js"
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.e7b0b9f5.chunk.js"
   ]
 }
