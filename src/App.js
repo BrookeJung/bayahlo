@@ -20,7 +20,7 @@ function App() {
         <Header />
         <Switch>
           <Route path="/" exact component={Main} />
-          <Route path="/Sign" component={SignUpPage} />
+          <Route path="/sign" component={SignUpPage} />
           <Route path="/login" component={SignInPage} />
           <Route path="/custom" component={ShopPage} />
           <Route path="/map" component={WeddingGeo} />
