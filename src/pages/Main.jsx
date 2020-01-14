@@ -1,17 +1,20 @@
 import React from 'react'
-import { MainButton } from '../components/wrapper/BasedStyle'
 import PageWrapper from '../components/wrapper/PageWrapper'
 import styled from 'styled-components'
+import palette from '../style/palette'
 
 const MainWrapper = styled.div`
-  background-color: #ffeddb;
+  margin-left: 5%;
+  padding: 2%;
+  width: 90%;
+  height: 500px;
+  background-color: ${palette.orange[0]};
 `
 const Main = () => {
   return (
     <PageWrapper>
       <MainWrapper>
         <h1> Main page </h1>
-        <MainButton>Sign Up</MainButton>
       </MainWrapper>
     </PageWrapper>
   )
