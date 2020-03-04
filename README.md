@@ -1,5 +1,5 @@
 # bayahlo
-http://BrookeJung.github.io/checkit
+http://BrookeJung.github.io/bayahlo
 
 :closed_book: react-redux-firebase-antd <br>
 :green_book: 2020-01-06 ~ 2020-02 <br>
